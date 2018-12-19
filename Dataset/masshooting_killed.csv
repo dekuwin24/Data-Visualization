@@ -1,0 +1,232 @@
+,year,State,numb_killed
+0,13,Alabama,3
+1,13,Arizona,3
+2,13,California,45
+3,13,Colorado,0
+4,13,Connecticut,2
+5,13,Delaware,3
+6,13,District of Columbia,12
+7,13,Florida,22
+8,13,Georgia,5
+9,13,Illinois,14
+10,13,Indiana,8
+11,13,Kansas,6
+12,13,Kentucky,4
+13,13,Louisiana,8
+14,13,Maryland,4
+15,13,Michigan,9
+16,13,Minnesota,3
+17,13,Mississippi,2
+18,13,Missouri,9
+19,13,Nebraska,0
+20,13,Nevada,0
+21,13,New Jersey,7
+22,13,New Mexico,5
+23,13,New York,14
+24,13,North Carolina,3
+25,13,Ohio,6
+26,13,Oklahoma,14
+27,13,Pennsylvania,8
+28,13,Rhode Island,1
+29,13,South Carolina,11
+30,13,Tennessee,14
+31,13,Texas,24
+32,13,Utah,4
+33,13,Virginia,3
+34,13,Washington,8
+35,13,West Virginia,4
+36,13,Wisconsin,0
+37,14,Alabama,1
+38,14,Alaska,0
+39,14,Arizona,1
+40,14,Arkansas,5
+41,14,California,43
+42,14,Colorado,1
+43,14,Connecticut,0
+44,14,District of Columbia,0
+45,14,Florida,26
+46,14,Georgia,15
+47,14,Illinois,17
+48,14,Indiana,7
+49,14,Kentucky,6
+50,14,Louisiana,5
+51,14,Maine,5
+52,14,Maryland,0
+53,14,Massachusetts,0
+54,14,Michigan,8
+55,14,Minnesota,1
+56,14,Mississippi,5
+57,14,Missouri,6
+58,14,Nevada,1
+59,14,New Jersey,4
+60,14,New Mexico,1
+61,14,New York,10
+62,14,North Carolina,3
+63,14,Ohio,10
+64,14,Oklahoma,2
+65,14,Oregon,1
+66,14,Pennsylvania,11
+67,14,Rhode Island,0
+68,14,South Carolina,10
+69,14,South Dakota,4
+70,14,Tennessee,8
+71,14,Texas,25
+72,14,Utah,5
+73,14,Virginia,12
+74,14,Washington,6
+75,14,Wisconsin,0
+76,15,Alabama,4
+77,15,Arizona,15
+78,15,Arkansas,2
+79,15,California,37
+80,15,Colorado,4
+81,15,Connecticut,1
+82,15,Delaware,0
+83,15,District of Columbia,1
+84,15,Florida,18
+85,15,Georgia,27
+86,15,Illinois,17
+87,15,Indiana,10
+88,15,Iowa,1
+89,15,Kansas,2
+90,15,Kentucky,2
+91,15,Louisiana,11
+92,15,Maryland,11
+93,15,Massachusetts,3
+94,15,Michigan,3
+95,15,Minnesota,6
+96,15,Mississippi,3
+97,15,Missouri,12
+98,15,Montana,5
+99,15,Nebraska,5
+100,15,Nevada,1
+101,15,New Jersey,5
+102,15,New Mexico,4
+103,15,New York,19
+104,15,North Carolina,7
+105,15,Ohio,20
+106,15,Oklahoma,1
+107,15,Oregon,11
+108,15,Pennsylvania,7
+109,15,Rhode Island,0
+110,15,South Carolina,20
+111,15,South Dakota,6
+112,15,Tennessee,14
+113,15,Texas,41
+114,15,Vermont,4
+115,15,Virginia,2
+116,15,Washington,0
+117,15,Wisconsin,6
+118,16,Alabama,16
+119,16,Arizona,12
+120,16,Arkansas,2
+121,16,California,34
+122,16,Colorado,5
+123,16,Connecticut,2
+124,16,Delaware,1
+125,16,District of Columbia,2
+126,16,Florida,81
+127,16,Georgia,24
+128,16,Illinois,32
+129,16,Indiana,8
+130,16,Kansas,10
+131,16,Kentucky,4
+132,16,Louisiana,15
+133,16,Maryland,12
+134,16,Massachusetts,2
+135,16,Michigan,15
+136,16,Minnesota,1
+137,16,Mississippi,8
+138,16,Missouri,10
+139,16,Nevada,6
+140,16,New Jersey,4
+141,16,New Mexico,11
+142,16,New York,5
+143,16,North Carolina,6
+144,16,Ohio,15
+145,16,Oklahoma,1
+146,16,Oregon,3
+147,16,Pennsylvania,15
+148,16,South Carolina,4
+149,16,Tennessee,4
+150,16,Texas,42
+151,16,Virginia,14
+152,16,Washington,21
+153,16,West Virginia,1
+154,16,Wisconsin,3
+155,17,Alabama,6
+156,17,Arizona,5
+157,17,Arkansas,2
+158,17,California,37
+159,17,Colorado,5
+160,17,Connecticut,2
+161,17,Delaware,0
+162,17,District of Columbia,2
+163,17,Florida,21
+164,17,Georgia,9
+165,17,Illinois,24
+166,17,Indiana,4
+167,17,Iowa,1
+168,17,Kansas,11
+169,17,Kentucky,2
+170,17,Louisiana,17
+171,17,Maine,4
+172,17,Maryland,9
+173,17,Massachusetts,0
+174,17,Michigan,9
+175,17,Minnesota,4
+176,17,Mississippi,24
+177,17,Missouri,19
+178,17,Montana,3
+179,17,Nevada,61
+180,17,New Jersey,13
+181,17,New Mexico,7
+182,17,New York,4
+183,17,North Carolina,12
+184,17,Ohio,19
+185,17,Oklahoma,2
+186,17,Pennsylvania,8
+187,17,South Carolina,5
+188,17,Tennessee,7
+189,17,Texas,59
+190,17,Utah,3
+191,17,Virginia,7
+192,17,Washington,5
+193,17,Wisconsin,5
+194,18,Alabama,10
+195,18,Arizona,3
+196,18,Arkansas,4
+197,18,California,49
+198,18,Colorado,7
+199,18,Connecticut,0
+200,18,Delaware,5
+201,18,District of Columbia,2
+202,18,Florida,46
+203,18,Georgia,3
+204,18,Illinois,21
+205,18,Indiana,7
+206,18,Kansas,1
+207,18,Kentucky,7
+208,18,Louisiana,9
+209,18,Maryland,13
+210,18,Massachusetts,0
+211,18,Michigan,10
+212,18,Minnesota,1
+213,18,Mississippi,1
+214,18,Missouri,8
+215,18,Nebraska,1
+216,18,Nevada,3
+217,18,New Jersey,4
+218,18,New Mexico,5
+219,18,New York,5
+220,18,North Carolina,13
+221,18,Ohio,9
+222,18,Oklahoma,2
+223,18,Pennsylvania,31
+224,18,South Carolina,5
+225,18,Tennessee,19
+226,18,Texas,28
+227,18,Utah,0
+228,18,Virginia,2
+229,18,Washington,4
+230,18,Wisconsin,1
